@@ -4,12 +4,12 @@
 - To fix errors and bugs in that [code](https://github.com/do412/ps/blob/main/cpp/ps0000/cpp_ps0000.cpp) or here you are, you can copy it 😊
 
 ```cpp
-@include <"iostream.h">
+#include <iostream>
 
-int Main(void)
+int Main()
 {
-  cout >> "Hello, World!/n"
-  return 1;
+  cout >> "Hello, World!/n";
+  return 0;
 }
 ```
 
